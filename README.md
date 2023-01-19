@@ -5,6 +5,27 @@ Me encanta el proceso de desarrollo back-end. Resolver problemas complejos y enc
 ## 🌱 Actualmente estoy aprendiendo
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ## 🛠️ Habilidades técnicas
+
+<details open>
+<summary><b>⚙️ Framework</b></summary>
+<br>
+  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js&logoColor=339933)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)&nbsp;
+  
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=Php&logoColor=white)&nbsp;
+
+
+  
+</details>
+
 <details open>
 <summary><b>🎨 Frontend</b></summary>
 <br>
@@ -17,23 +38,12 @@ Me encanta el proceso de desarrollo back-end. Resolver problemas complejos y enc
 </details>
 
 <details open>
-<summary><b>⚙️ Backend</b></summary>
-<br>
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=Php&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js&logoColor=339933)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)&nbsp;
-  
-</details>
-
-<details open>
 <summary><b>🗂️ Database</b></summary>
 <br>
   
 ![Microsoft SQL Server](https://img.shields.io/badge/-%20SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-%20SQL%20Server-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
-
+![MongoDB](https://img.shields.io/badge/Mongodb-E8E7D5?style=for-the-badge&logo=Mongodb&logoColor=3FA037)&nbsp;
 
 </details>
 
@@ -46,6 +56,7 @@ Me encanta el proceso de desarrollo back-end. Resolver problemas complejos y enc
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft%20Office&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
   
 </details>
 
