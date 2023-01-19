@@ -7,7 +7,7 @@ Me encanta el proceso de desarrollo back-end. Resolver problemas complejos y enc
 ## 🛠️ Habilidades técnicas
 
 <details open>
-<summary><b>⚙️ Framework</b></summary>
+<summary><b>🧱 Framework</b></summary>
 <br>
   
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js&logoColor=339933)&nbsp;
