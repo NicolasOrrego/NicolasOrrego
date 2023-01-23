@@ -1,7 +1,7 @@
 [![Desarrollador-Back-end.png](https://i.postimg.cc/WbY18FJb/Desarrollador-Back-end.png)](https://postimg.cc/crYW4JmV)
 <h3 align="center">Hola soy Nicolás 👋</h3>
 
-Me encanta el proceso de desarrollo back-end. Resolver problemas complejos y encontrar soluciones es lo que más me motiva y me impulsa a seguir creciendo y mejorando como desarrollador.
+El desarrollo back-end es mi pasión. Resolver problemas complejos e implementar soluciones eficientes es lo que me motiva a continuar aprendiendo y mejorando como desarrollador. Construir una aplicación desde cero es lo que más me gusta de este proceso creativo y eso es lo que me impulsa a seguir creciendo.
 ## 🌱 Actualmente estoy aprendiendo
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ## 🛠️ Habilidades técnicas
@@ -60,18 +60,3 @@ Me encanta el proceso de desarrollo back-end. Resolver problemas complejos y enc
   
 </details>
 
-
-<!--
-**NicolasOrrego/NicolasOrrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
