@@ -42,7 +42,7 @@ El desarrollo back-end es mi pasión. Resolver problemas complejos e implementar
 <br>
   
 ![Microsoft SQL Server](https://img.shields.io/badge/-%20SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-%20SQL%20Server-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/Mongodb-E8E7D5?style=for-the-badge&logo=Mongodb&logoColor=3FA037)&nbsp;
 
 </details>
