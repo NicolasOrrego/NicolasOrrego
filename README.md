@@ -1,62 +1,37 @@
-[![Desarrollador-Back-end.png](https://i.postimg.cc/WbY18FJb/Desarrollador-Back-end.png)](https://postimg.cc/crYW4JmV)
-<h3 align="center">Hola soy Nicolás 👋</h3>
+## Hola, soy Nicolás [![giphy-unscreen-1.gif](https://i.postimg.cc/zXbkXmJb/giphy-unscreen-1.gif)](https://postimg.cc/HVmMBh8d)
+👨🏻‍🎓 ***Acerca de mí***
 
-El desarrollo back-end es mi pasión. Resolver problemas complejos e implementar soluciones eficientes es lo que me motiva a continuar aprendiendo y mejorando como desarrollador. Construir una aplicación desde cero es lo que más me gusta de este proceso creativo y eso es lo que me impulsa a seguir creciendo.
-## 🌱 Actualmente estoy aprendiendo
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
-## 🛠️ Habilidades técnicas
+*Soy desarrollador Backend, resolver problemas complejos e implementar soluciones eficientes es lo que me motiva a continuar aprendiendo y mejorando como desarrollador. Construir una aplicación desde cero es lo que más me gusta de este proceso creativo y eso es lo que me impulsa a seguir creciendo.*
 
-<details open>
-<summary><b>🧱 Framework</b></summary>
-<br>
-  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=Node.js&logoColor=339933)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)&nbsp;
-  
-</details>
+📚 ***Aprendiendo actualmente***
 
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br>
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=Php&logoColor=white)&nbsp;
+- *Aprendiendo Node.js.*
 
+- *Aprendiendo React.*
 
-  
-</details>
+🚀 ***Habilidades***
 
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br>
-  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)&nbsp;
-  
-</details>
+<p>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=323330" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-3C99DC?style=flat-square&logo=CSS3&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+</p>
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+</p>
+<p>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" />
+  <img alt="Canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-EF5B25?style=flat-square&logo=postman&logoColor=white" />
 
-<details open>
-<summary><b>🗂️ Database</b></summary>
-<br>
-  
-![Microsoft SQL Server](https://img.shields.io/badge/-%20SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/Mongodb-E8E7D5?style=for-the-badge&logo=Mongodb&logoColor=3FA037)&nbsp;
-
-</details>
-
-<details open>
-<summary><b>💻 Software</b></summary>
-<br>
-
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft%20Office&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-  
-</details>
+</p>
 
