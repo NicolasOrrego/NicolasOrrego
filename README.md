@@ -5,9 +5,9 @@
 
 📚 ***Aprendiendo actualmente***
 
-- *Aprendiendo Node.js.*
+- *Aprendiendo Java*
 
-- *Aprendiendo React.*
+- *Proximamente Spring Boot.*
 
 🚀 ***Habilidades***
 
@@ -17,12 +17,6 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=php&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=323330" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-3C99DC?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-</p>
-<p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
 </p>
