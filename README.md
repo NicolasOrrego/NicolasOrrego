@@ -5,9 +5,7 @@
 
 📚 ***Aprendiendo actualmente***
 
-- *Aprendiendo Java*
-
-- *Proximamente Spring Boot.*
+- *Actualmente estoy aprendiendo Java y próximamente estaré explorando Spring Boot.*
 
 🚀 ***Habilidades***
 
