@@ -14,6 +14,10 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="postman" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
 </p><br>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicolasorrego&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false&show_owner=true">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasorrego&theme=transparent&hide_border=false&&layout=compact">
+</p>
 
 
 
