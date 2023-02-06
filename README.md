@@ -1,6 +1,6 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-<h1 align="center">Hola, soy Nicolas👋</h1>
+<h1 align="center">Hola, soy Nicolás👋</h1>
 <p align="center">
  Soy un ingeniero en informática con experiencia junior en desarrollo back-end. Próximamente estaré aprendiendo java y explorando spring boot para ampliar mis conocimientos.
 </p>
